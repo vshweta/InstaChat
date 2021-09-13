@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InstaChat</string>
+    <string name="mobile_verify_Text">Verify your mobile number</string>
+    <string name="verify_description">InstaChat will send an SMS  message to verify your phone number.</string>
+    <string name="hint_text">Type your phone number</string>
+    <string name="continue_button">Continue</string>
+    <string name="otp_text">Enter the OTP code to verify your phone number.</string>
+    <string name="profile_info">Profile Info</string>
+    <string name="profile_text">Please set your name and an optional profile Image</string>
+    <string name="name_hint">Set Name</string>
+    <string name="hint_name">Set your name</string>
+    <string name="setup_profile">SETUP PROFILE</string>
+</resources>

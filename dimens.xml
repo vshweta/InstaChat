@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textsize_description">12sp</dimen>
+    <dimen name="margin_dp">10dp</dimen>
+    <dimen name="padding_dp">15dp</dimen>
+</resources>
